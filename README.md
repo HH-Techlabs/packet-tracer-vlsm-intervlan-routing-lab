@@ -62,7 +62,7 @@ Departments:
 
 ## Author
 
-Digit
+HH-Tech
 
 CompTIA A+ | Network+ | Security+
 
