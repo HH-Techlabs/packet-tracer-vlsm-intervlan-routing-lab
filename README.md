@@ -60,6 +60,18 @@ Departments:
 - Inter-VLAN Routing
 - Network Troubleshooting
 
+## What I Learned
+
+This lab demonstrates the ability to:
+
+- Design subnets using VLSM
+- Configure VLANs on Cisco switches
+- Configure trunk links between switches
+- Implement SVIs on a multilayer switch
+- Enable inter-VLAN routing
+- Verify network connectivity using Cisco IOS commands
+- Document network configurations and test results
+
 ## Author
 
 HH-Tech
